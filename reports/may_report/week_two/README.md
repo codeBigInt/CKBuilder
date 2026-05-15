@@ -6,7 +6,7 @@
 
 ## Courses Completed
 
-- Explored the module 3 & 4 of the Rust book
+- Explored module 3 & 4 of the Rust book
 - Started going through the "Learning CKB - 24 lessons across 5 phases" documentation (Phase 1).
     - Reintroduction to CKB basic
     - Comparison between CKB Cell vs Bitcoin UTXO vs Ethereum Account
