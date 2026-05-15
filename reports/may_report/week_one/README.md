@@ -28,7 +28,7 @@
 
 ## Practical Progress
 - Built the guessing game project from the Rust book that utilizes the `io` standard library prelude from the rust standard library, `std`.
-- Watched a few scary videos on rust projects for beginners built in realtime
+- Watched a few videos on rust projects for beginners built in realtime
 
 ![alt text](./images/image.png)
 
