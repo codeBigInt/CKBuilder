@@ -1,0 +1,19 @@
+{
+  "name": "02-transaction-anatomy",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@ckb-ccc/core": "^1.12.5"
+  }
+}
