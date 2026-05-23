@@ -30,8 +30,3 @@
 - Debugged and reviewed the code using AI tool for rating to see how the code meets idiomatic patterns.
 
 
-![alt text](./images/Screenshot-2026-05-15-224434.png)
-
-![alt text](./images/Screenshot-2026-05-15-150337.png)
-
-![alt text](./images/image-1.png)
