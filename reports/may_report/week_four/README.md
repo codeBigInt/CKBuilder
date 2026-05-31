@@ -37,3 +37,6 @@
 - Improved familiarity with package layout, crate boundaries, and the difference between application code and reusable library code.
 - Worked through how public and private items affect API design, especially when deciding what should be available outside a module.
 - Built a clearer mental model of how Rust projects can grow from small examples into cleaner multi-file codebases while staying readable.
+
+
+![alt text](./images/image.png)
