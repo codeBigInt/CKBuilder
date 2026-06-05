@@ -1,0 +1,21 @@
+{
+  "devnet": {
+    "simple-nft": {
+      "codeHash": "0x42b415558dc1c371b19fca030f1989434092a47334a797a45b6abc72a3a29f8d",
+      "hashType": "data2",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0x2020720c2b8cd3d7ed61cb4d6e80d5517586217cbadf8bc5fabeaba30c05e358",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    }
+  },
+  "testnet": {},
+  "mainnet": {}
+}
