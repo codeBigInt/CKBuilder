@@ -1,5 +1,6 @@
 {
-  "devnet": {
+  "devnet": {},
+  "testnet": {
     "nft-issuer": {
       "codeHash": "0x299e38aee1720f8ff055e1eb68cd2a1e1af06ce031ecf530e6a367df9892b79c",
       "hashType": "data2",
@@ -7,7 +8,7 @@
         {
           "cellDep": {
             "outPoint": {
-              "txHash": "0x5592b7ddb50c6afdd39938a7dbcb80914cb586d3b68e69cfea7e62716688640e",
+              "txHash": "0x7695c6351d13d0c8d97ec0cb5bad53e5b1eb0090844530c0a442098fbc7a41ed",
               "index": 0
             },
             "depType": "code"
@@ -22,7 +23,7 @@
         {
           "cellDep": {
             "outPoint": {
-              "txHash": "0x65f130167b13b71a749c3f47e928f8ee46373691bf6969bc44273f9da83db7a2",
+              "txHash": "0x89302655d155c3ce789bfdaf3fb89f2d771a8c691ca3c60f453d898f850e9452",
               "index": 0
             },
             "depType": "code"
@@ -31,6 +32,5 @@
       ]
     }
   },
-  "testnet": {},
   "mainnet": {}
 }

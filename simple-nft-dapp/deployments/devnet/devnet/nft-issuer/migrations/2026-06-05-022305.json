@@ -1,0 +1,12 @@
+{
+  "cell_recipes": [
+    {
+      "name": "nft-issuer",
+      "tx_hash": "0x5592b7ddb50c6afdd39938a7dbcb80914cb586d3b68e69cfea7e62716688640e",
+      "index": 0,
+      "occupied_capacity": 2297600000000,
+      "data_hash": "0x299e38aee1720f8ff055e1eb68cd2a1e1af06ce031ecf530e6a367df9892b79c"
+    }
+  ],
+  "dep_group_recipes": []
+}

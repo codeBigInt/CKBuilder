@@ -1,0 +1,32 @@
+{
+  "nft-issuer": {
+    "codeHash": "0x299e38aee1720f8ff055e1eb68cd2a1e1af06ce031ecf530e6a367df9892b79c",
+    "hashType": "data2",
+    "cellDeps": [
+      {
+        "cellDep": {
+          "outPoint": {
+            "txHash": "0x7695c6351d13d0c8d97ec0cb5bad53e5b1eb0090844530c0a442098fbc7a41ed",
+            "index": 0
+          },
+          "depType": "code"
+        }
+      }
+    ]
+  },
+  "simple-nft": {
+    "codeHash": "0x42b415558dc1c371b19fca030f1989434092a47334a797a45b6abc72a3a29f8d",
+    "hashType": "data2",
+    "cellDeps": [
+      {
+        "cellDep": {
+          "outPoint": {
+            "txHash": "0x89302655d155c3ce789bfdaf3fb89f2d771a8c691ca3c60f453d898f850e9452",
+            "index": 0
+          },
+          "depType": "code"
+        }
+      }
+    ]
+  }
+}

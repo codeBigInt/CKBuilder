@@ -1,0 +1,12 @@
+{
+  "cell_recipes": [
+    {
+      "name": "simple-nft",
+      "tx_hash": "0x89302655d155c3ce789bfdaf3fb89f2d771a8c691ca3c60f453d898f850e9452",
+      "index": 0,
+      "occupied_capacity": 4199200000000,
+      "data_hash": "0x42b415558dc1c371b19fca030f1989434092a47334a797a45b6abc72a3a29f8d"
+    }
+  ],
+  "dep_group_recipes": []
+}
