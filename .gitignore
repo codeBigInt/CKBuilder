@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.next/
+.nuxt/
+.cache/
+
+# Rust
+target/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
