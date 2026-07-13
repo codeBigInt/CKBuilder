@@ -38,3 +38,8 @@
 
 
 Github Link: https://github.com/scisamir/fiber-dev-kit
+NPM Packages:
+--
+https://www.npmjs.com/package/@fiber-dev-kit/core
+https://www.npmjs.com/package/@fiber-dev-kit/test-client
+https://www.npmjs.com/package/@fiber-dev-kit/inspector
